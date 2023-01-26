@@ -1,2 +1,2 @@
 # yamlguide
-Learning yaml
+supporting project for YAML tutorial
